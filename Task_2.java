@@ -15,7 +15,7 @@ import java.io.File;
 Студент Иванов получил 5 по предмету Математика.
 Студент Петрова получил 4 по предмету Информатика.
 */
-public class Task022 {
+public class Task_2 {
     public static void main(String[] args) {
         String currentPath = Paths.get("")
                                   .toAbsolutePath()
